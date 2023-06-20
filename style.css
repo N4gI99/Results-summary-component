@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Hanken Grotesk', sans-serif;
+}
+
+tr {
+  margin: 20px;
+  border: 1px solid red;
+}
+
+.result-box {
+  margin: auto;
+  border: 1px solid red;
+}
+
+.result-card {
+  text-align: center;
+  width: 500px;
+  height: 700px;
+  border-radius: 25px;
+  background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+  float: left;
+}
